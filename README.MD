@@ -3,7 +3,7 @@
     🚀 Rocketseat - NLW-8 - Feedget - Front-end for web part 🚀
 </h1>
 <h1 align = "center">
-    💻 Project develeped using React, Typescript, Vitejs and Tailwindcss 💻
+    💻 Project develeped using ReactJs, TypeScript, ViteJs and Tailwindcss 💻
 </h1>
 <h1 align = "center">
     Deployed in 
