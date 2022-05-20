@@ -1,6 +1,6 @@
 <img src="photo_readme/Capa.png">
 <h1 align = "center">
-    🚀 Rocketseat - NLW-8 - Feedget - Front-end for web part 🚀
+    🚀 Rocketseat - NLW-8 - Feedget - Web part 🚀
 </h1>
 <h1 align = "center">
     💻 Project developed using ReactJs, TypeScript, ViteJs and Tailwindcss 💻
